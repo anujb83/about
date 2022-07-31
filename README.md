@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anujb83
+- 👋 Hi, I’m @anuj
 - 👀 I’m interested in mern stack
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on ...
